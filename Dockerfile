@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM 32bit/debian
 MAINTAINER Jan Broer <janeczku@yahoo.de>
 ENV DEBIAN_FRONTEND noninteractive
 
